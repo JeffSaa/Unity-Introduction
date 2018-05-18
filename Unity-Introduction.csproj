@@ -256,6 +256,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FollowMe.cs" />
     <Compile Include="Assets\JustWalk.cs" />
   </ItemGroup>
   <ItemGroup>
